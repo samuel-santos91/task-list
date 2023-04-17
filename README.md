@@ -1,46 +1,38 @@
-# Getting Started with Create React App
+# task-list
+## Application to list tasks
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Type the task<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 30 48" src="https://user-images.githubusercontent.com/107240729/232473668-3342c1bc-69fd-4622-ac3c-34e6f33a9b4e.png">
+<img width="500" alt="Screen Shot 2023-04-17 at 21 31 37" src="https://user-images.githubusercontent.com/107240729/232473898-6d2ff329-e854-4c15-9010-244ee596b6eb.png">
 
-## Available Scripts
+### Mark it as done<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 31 58" src="https://user-images.githubusercontent.com/107240729/232474175-23fee1ce-5598-40d8-a0be-a6ab0cdbff33.png">
 
-In the project directory, you can run:
+### Edit or delete<br>
+<img width="500" alt="Screen Shot 2023-04-17 at 21 32 13" src="https://user-images.githubusercontent.com/107240729/232474260-b9e1d732-ebb0-4947-a948-76c4c7f55272.png">
 
-### `npm start`
+  
+## Built with React.js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Prerequisites
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Install Node JS
+Refer to https://nodejs.org/en/ to install nodejs
 
-### `npm test`
+## Cloning and Running the Application in local
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone the project into local
 
-### `npm run build`
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+npm install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In order to run the application Type the following command
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+npm start
+```
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+The Application Runs on **localhost:3000** 
