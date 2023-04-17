@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff&display=swap");
+
+body {
+  height: 100%;
+  background-color: rgb(35, 35, 35);
+}
+
+.app {
+  height: 100%;
+  width: 100vw;
+  background-color: rgb(35, 35, 35);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.heading {
+  margin: 2rem 0;
+  color: white;
+  font-family: "DynaPuff", cursive;
+  font-size: 2rem;
+}
